@@ -1,6 +1,6 @@
 # iiesc
 
-This project is a Webapp used to calculate size when using 512 bytes external storage on IBM i.g
+This project is a Webapp used to calculate size when using 512 bytes external storage on IBM i.
 
 ## Build & development
 
